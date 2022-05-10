@@ -1,0 +1,7 @@
+@@baike.baidu.com^
+||haokan.baidu.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
+||hao123.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
+||so.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
+||bilibili.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
+||sogou.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
+||cz27.xyz^
