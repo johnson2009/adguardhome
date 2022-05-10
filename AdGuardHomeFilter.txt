@@ -1,5 +1,4 @@
 @@baike.baidu.com^
-||baidu.com^
 ||haokan.baidu.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
 ||hao123.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
 ||so.com^$client=CiciiPad|CiciiPad2|CiciiPad3|HonorPad
